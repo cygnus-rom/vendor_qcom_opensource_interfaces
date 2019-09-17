@@ -52,3 +52,13 @@ hidl_package_root {
     name: "vendor.qti.hardware.cryptfshw",
     path: "vendor/qcom/opensource/interfaces/cryptfshw",
 }
+
+hidl_package_root {
+    name: "com.qualcomm.qti",
+    path: "vendor/qcom/opensource/interfaces",
+}
+
+hidl_package_root {
+    name: "vendor.qti.hardware",
+    path: "vendor/qcom/opensource/interfaces",
+}
